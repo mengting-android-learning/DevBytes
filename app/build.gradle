@@ -94,6 +94,9 @@ dependencies {
     kapt 'com.github.bumptech.glide:compiler:4.7.1'
 
     detektPlugins "io.gitlab.arturbosch.detekt:detekt-formatting:1.22.0"
+
+    implementation "androidx.room:room-runtime:2.5.0"
+    kapt "androidx.room:room-compiler:2.5.0"
 }
 
 detekt {
