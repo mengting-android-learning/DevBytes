@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>Filename:com.example.android.devbyteviewer.domain.Models.kt:1</ID>
+    <ID>SwallowedException:DevByteViewModel.kt$DevByteViewModel$networkError: IOException</ID>
+  </CurrentIssues>
+</SmellBaseline>
